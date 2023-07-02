@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>OBJECT_ORIENTED_PRORAMMING__C___2023_Lab_2</RootNamespace>
+    <RootNamespace>Exercise_4___Lambda_expressions</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>

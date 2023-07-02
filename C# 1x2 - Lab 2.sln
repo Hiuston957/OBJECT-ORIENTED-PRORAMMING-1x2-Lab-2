@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 4 – Lambda expressions", "OBJECT ORIENTED PRORAMMING (C#) 2023 Lab 2\Exercise 4 – Lambda expressions.csproj", "{7EC5B1D3-5C04-4957-9576-E33B77DB8E41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 6 – LINQ", "Exercise 6 – LINQ\Exercise 6 – LINQ.csproj", "{025E6F76-BC68-44BD-967D-A259C86AB688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 6 – LINQ", "Exercise 6 – LINQ\Exercise 6 – LINQ.csproj", "{025E6F76-BC68-44BD-967D-A259C86AB688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise 7 – Delegates. Multicast delegates", "Exercise 7 – Delegates. Multicast delegates\Exercise 7 – Delegates. Multicast delegates.csproj", "{E573EB99-CAA1-4141-AF02-485C61978AE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 7 – Delegates. Multicast delegates", "Exercise 7 – Delegates. Multicast delegates\Exercise 7 – Delegates. Multicast delegates.csproj", "{E573EB99-CAA1-4141-AF02-485C61978AE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4 – Lambda expressions", "Exercise 4 – Lambda expressions\Exercise 4 – Lambda expressions.csproj", "{4EC5B81B-12C3-4EBB-B9DE-AAFF466B9586}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EC5B1D3-5C04-4957-9576-E33B77DB8E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EC5B1D3-5C04-4957-9576-E33B77DB8E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EC5B1D3-5C04-4957-9576-E33B77DB8E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EC5B1D3-5C04-4957-9576-E33B77DB8E41}.Release|Any CPU.Build.0 = Release|Any CPU
 		{025E6F76-BC68-44BD-967D-A259C86AB688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{025E6F76-BC68-44BD-967D-A259C86AB688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{025E6F76-BC68-44BD-967D-A259C86AB688}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{E573EB99-CAA1-4141-AF02-485C61978AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E573EB99-CAA1-4141-AF02-485C61978AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E573EB99-CAA1-4141-AF02-485C61978AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC5B81B-12C3-4EBB-B9DE-AAFF466B9586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC5B81B-12C3-4EBB-B9DE-AAFF466B9586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC5B81B-12C3-4EBB-B9DE-AAFF466B9586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC5B81B-12C3-4EBB-B9DE-AAFF466B9586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

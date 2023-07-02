@@ -28,7 +28,7 @@ namespace Ex_02_06
             // Choose only animals with 5 letters and get them in a descending order
             var fives = from s in animals
                         where s.Length == 5
-                        orderby s descending
+                        orderby s descending 
                         select s;
             // Printing
             ordered.ToList().ForEach(n => Console.WriteLine(n));
